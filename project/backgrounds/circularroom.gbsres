@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "9d355b25-fd26-4b8c-bea8-ddfcc84afb8b",
+  "name": "circularroom",
+  "symbol": "bg_circularroom",
+  "width": 30,
+  "height": 22,
+  "imageWidth": 240,
+  "imageHeight": 180,
+  "filename": "circularroom.png",
+  "tileColors": ""
+}

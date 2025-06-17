@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "12057dfc-aec5-4966-82c8-15ec4a34ed94",
+  "name": "prelude",
+  "symbol": "bg_prelude",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "prelude.png",
+  "tileColors": "03168+",
+  "autoColor": true
+}

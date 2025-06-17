@@ -1,0 +1,42 @@
+{
+  "_resourceType": "trigger",
+  "id": "2a890c99-e28b-43e2-8aa0-7001d2db2679",
+  "name": "",
+  "prefabId": "",
+  "x": 4,
+  "y": 6,
+  "symbol": "trigger_2",
+  "prefabScriptOverrides": {},
+  "width": 1,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "im not supposed\n\nto drink...",
+          "maybe I should\n\nwait till later"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "722cf38f-1e79-4fae-b67d-031e13628e91"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 1
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "5ce0aa2b-0d55-4e71-96c6-80fb56ad0029",
+  "name": "babyshouse",
+  "symbol": "bg_babyshouse",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "babyshouse.png",
+  "autoColor": true,
+  "tileColors": "03168+"
+}
