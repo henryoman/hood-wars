@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "19492217-0421-426a-94df-4b0f837db3f7",
+  "name": "richmanpool",
+  "symbol": "bg_richmanpool",
+  "width": 30,
+  "height": 20,
+  "imageWidth": 240,
+  "imageHeight": 160,
+  "filename": "richmanpool.png",
+  "tileColors": "",
+  "autoColor": true
+}

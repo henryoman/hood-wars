@@ -8,6 +8,6 @@
   "imageWidth": 240,
   "imageHeight": 200,
   "filename": "colortest.png",
-  "autoColor": true,
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": true
 }

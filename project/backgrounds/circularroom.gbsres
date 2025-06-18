@@ -8,5 +8,6 @@
   "imageWidth": 240,
   "imageHeight": 180,
   "filename": "circularroom.png",
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": false
 }

@@ -2,25 +2,24 @@
   "_resourceType": "scene",
   "id": "e3debd7b-224e-4483-abe8-f6c717ddb4c4",
   "_index": 1,
-  "name": "Scene 2",
-  "backgroundId": "12057dfc-aec5-4966-82c8-15ec4a34ed94",
-  "tilesetId": "",
-  "width": 20,
-  "height": 18,
   "type": "LOGO",
-  "paletteIds": [
-    null,
-    null,
-    "default-bg-3",
-    null,
-    "dmg"
-  ],
-  "spritePaletteIds": [],
-  "collisions": "",
-  "autoFadeSpeed": 1,
+  "name": "Scene 2",
   "symbol": "scene_2",
   "x": 408,
   "y": 200,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "12057dfc-aec5-4966-82c8-15ec4a34ed94",
+  "tilesetId": "",
+  "paletteIds": [
+    "",
+    "",
+    "default-bg-3",
+    "",
+    "dmg"
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
   "script": [
     {
       "command": "EVENT_WAIT",
@@ -50,5 +49,6 @@
   ],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "collisions": ""
 }

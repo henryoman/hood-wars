@@ -8,6 +8,6 @@
   "imageWidth": 256,
   "imageHeight": 256,
   "filename": "hoovergardens.png",
-  "autoColor": true,
-  "tileColors": "005a+03!0022+03!00382+"
+  "tileColors": "005a+03!0022+03!00382+",
+  "autoColor": true
 }
