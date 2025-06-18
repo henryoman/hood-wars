@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a42d09b4-5cfd-4c2d-89c7-559315c252ed",
+  "name": "NESpalletterichmanhouse",
+  "symbol": "bg_nespalletterichmanhouse",
+  "width": 30,
+  "height": 20,
+  "imageWidth": 240,
+  "imageHeight": 160,
+  "filename": "NESpalletterichmanhouse.png",
+  "autoColor": true,
+  "tileColors": "00258+"
+}
