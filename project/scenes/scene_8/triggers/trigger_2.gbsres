@@ -1,0 +1,41 @@
+{
+  "_resourceType": "trigger",
+  "id": "b8f2dd14-41e6-4c79-b400-e3a4c4a0a1b2",
+  "name": "",
+  "prefabId": "",
+  "x": 7,
+  "y": 0,
+  "symbol": "trigger_7",
+  "prefabScriptOverrides": {},
+  "width": 1,
+  "height": 2,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "its gross af back\n\nhere..."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 8,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "fa708b94-645b-434c-9eba-6fee796ce4e3"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 1
+}

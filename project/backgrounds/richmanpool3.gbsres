@@ -8,6 +8,6 @@
   "imageWidth": 240,
   "imageHeight": 160,
   "filename": "richmanpool3.png",
-  "autoColor": true,
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": true
 }

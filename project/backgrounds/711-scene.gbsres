@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "bdf10796-5add-45cd-bdb7-bb162baf3d13",
+  "name": "711-scene",
+  "symbol": "bg_711_scene",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "711-scene.png",
+  "tileColors": "",
+  "autoColor": true
+}

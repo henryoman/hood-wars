@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "9bfefe46-39ea-428b-a09c-0dd2bb206599",
+  "name": "hooverton gardens3",
+  "symbol": "bg_hooverton_gardens3",
+  "width": 80,
+  "height": 80,
+  "imageWidth": 640,
+  "imageHeight": 640,
+  "filename": "hooverton gardens3.png",
+  "tileColors": "",
+  "autoColor": true
+}

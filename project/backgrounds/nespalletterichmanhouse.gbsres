@@ -8,6 +8,6 @@
   "imageWidth": 240,
   "imageHeight": 160,
   "filename": "NESpalletterichmanhouse.png",
-  "autoColor": true,
-  "tileColors": "00258+"
+  "tileColors": "00258+",
+  "autoColor": true
 }

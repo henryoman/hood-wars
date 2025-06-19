@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "90c1884a-0975-499b-9b45-38d012ce998d",
+  "name": "inside_example",
+  "symbol": "bg_inside_example",
+  "width": 22,
+  "height": 20,
+  "imageWidth": 176,
+  "imageHeight": 160,
+  "filename": "inside_example.png",
+  "tileColors": ""
+}

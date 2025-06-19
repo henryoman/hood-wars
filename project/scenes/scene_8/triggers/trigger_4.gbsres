@@ -1,0 +1,112 @@
+{
+  "_resourceType": "trigger",
+  "id": "bef3c546-d153-4cf3-9174-c7a1e28124d0",
+  "name": "",
+  "prefabId": "",
+  "x": 15,
+  "y": 55,
+  "symbol": "trigger_9",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "yo hold up. you \n\nfrom hoover?\n\nnever seen you b4"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "bf343ce6-c481-402a-a089-42a317327ed7"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Huh? Answer me fam\n\nwhere tf you from?"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "ec0640a6-e1fa-40ae-a0d6-2c2bf42c1e8f"
+    },
+    {
+      "command": "EVENT_CAMERA_SHAKE",
+      "args": {
+        "time": 0.2,
+        "frames": 30,
+        "shakeDirection": "horizontal",
+        "magnitude": {
+          "type": "number",
+          "value": 2
+        }
+      },
+      "id": "5f3acbb9-8279-4d47-b690-534b1bbf3d6e"
+    },
+    {
+      "command": "EVENT_ACTOR_EMOTE",
+      "args": {
+        "actorId": "$self$",
+        "emoteId": "56423c9c-dca0-4f5b-ad92-28e9660d50f1"
+      },
+      "id": "2eafaba7-6b6b-4d92-9e9a-8cb8dfd83f8d"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "GET UP OUTTA HERE \n\nB4 I CRASH OUT!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "8c8a7954-9144-4297-84f8-200d69b15c90"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 3
+}
