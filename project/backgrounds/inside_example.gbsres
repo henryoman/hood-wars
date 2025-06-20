@@ -8,5 +8,6 @@
   "imageWidth": 176,
   "imageHeight": 160,
   "filename": "inside_example.png",
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": false
 }

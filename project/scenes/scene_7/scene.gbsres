@@ -1,7 +1,7 @@
 {
   "_resourceType": "scene",
   "id": "ad8301ef-8291-4122-9e64-e026df57d6da",
-  "_index": 6,
+  "_index": 5,
   "name": "Scene 7",
   "backgroundId": "90c1884a-0975-499b-9b45-38d012ce998d",
   "tilesetId": "",
@@ -15,11 +15,11 @@
     "default-bg-5",
     "dmg"
   ],
-  "collisions": "001b8+",
+  "collisions": "0070+0f11+004+0f!0011+0f!003+0f!0011+0f!003+0f!006+0f8+002+0f!004+0f!002+0f2+002+0f8+002+0f!004+0f!002+0f2+00c+0f!004+0f!002+0f2+00c+0f!004+0f!002+0f2+002+0f8+002+0f!004+0f5+002+0f8+002+0f!004+0f!0010+0f!004+0f!0010+0f!004+0f!0010+0f!005+0f4+002+0fa+0030+",
   "autoFadeSpeed": 1,
   "symbol": "scene_7",
-  "x": 1712,
-  "y": 496,
+  "x": 2032,
+  "y": 240,
   "script": [],
   "playerHit1Script": [],
   "playerHit2Script": [],
