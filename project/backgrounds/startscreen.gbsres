@@ -9,5 +9,5 @@
   "imageHeight": 144,
   "filename": "startscreen.png",
   "tileColors": "0348+07!0311f+",
-  "autoColor": true
+  "autoColor": false
 }

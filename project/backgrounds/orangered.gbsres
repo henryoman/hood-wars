@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "cc45fe97-4936-4291-b61b-1ec89d8b178c",
+  "name": "orangered",
+  "symbol": "bg_orangered",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "orangered.png",
+  "tileColors": "",
+  "autoColor": true
+}

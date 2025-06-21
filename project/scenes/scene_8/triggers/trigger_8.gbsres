@@ -1,0 +1,89 @@
+{
+  "_resourceType": "trigger",
+  "id": "37d4b9b0-bfa8-4686-a34a-4a14911468ad",
+  "name": "",
+  "prefabId": "",
+  "x": 53,
+  "y": 43,
+  "symbol": "trigger_5",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "damn you be fine \n\nas hell boy",
+          "you aint ready for\n\nthis pussy tho :P"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "c3da7e5d-917b-4b3e-b5fc-0d1f859b3787"
+    },
+    {
+      "command": "EVENT_ACTOR_EMOTE",
+      "args": {
+        "actorId": "$self$",
+        "emoteId": "9df5f63f-ea47-447e-9b14-cb2dbafb697d"
+      },
+      "id": "ff8493f4-e593-4353-9e3b-1a7972c9e111"
+    },
+    {
+      "command": "EVENT_CAMERA_SHAKE",
+      "args": {
+        "time": 0.1,
+        "frames": 30,
+        "shakeDirection": "horizontal",
+        "magnitude": {
+          "type": "number",
+          "value": 1
+        }
+      },
+      "id": "6eb6f744-4b47-430f-802d-bc2f7c6e60ce"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "here's my number.",
+          "hit me up wen you \n\nready for me daddy"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "cff27a62-28e0-4ca1-93b1-1f4592de6600"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 7
+}

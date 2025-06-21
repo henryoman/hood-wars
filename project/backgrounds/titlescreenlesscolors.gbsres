@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "316f5342-c8ba-434f-b8cc-1cff609b8dc9",
+  "name": "titlescreenlesscolors",
+  "symbol": "bg_titlescreenlesscolors",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "titlescreenlesscolors.png",
+  "autoColor": false,
+  "tileColors": ""
+}

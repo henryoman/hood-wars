@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d6515a2e-1f97-41de-9fff-e632fd140b2e",
+  "name": "westsidelabs2",
+  "symbol": "bg_westsidelabs2",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "westsidelabs2.png",
+  "autoColor": true,
+  "tileColors": ""
+}
