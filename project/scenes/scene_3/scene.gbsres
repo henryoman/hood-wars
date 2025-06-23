@@ -12,10 +12,10 @@
   "backgroundId": "5ce0aa2b-0d55-4e71-96c6-80fb56ad0029",
   "tilesetId": "",
   "paletteIds": [
+    "default-bg-3",
     "",
     "",
-    "",
-    "",
+    "default-bg-3",
     "default-bg-2"
   ],
   "spritePaletteIds": [

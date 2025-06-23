@@ -2,24 +2,23 @@
   "_resourceType": "scene",
   "id": "9fdc5319-bade-4d70-b892-9893734e1ea2",
   "_index": 7,
-  "name": "Scene 8",
-  "backgroundId": "eea30e89-3a5a-4d30-80d0-c8282d8b6094",
-  "tilesetId": "",
-  "width": 20,
-  "height": 18,
   "type": "LOGO",
-  "paletteIds": [
-    "default-bg-3",
-    "default-bg-3",
-    null,
-    "default-bg-3"
-  ],
-  "spritePaletteIds": [],
-  "collisions": "",
-  "autoFadeSpeed": 1,
+  "name": "Scene 8",
   "symbol": "scene_4",
   "x": 104,
   "y": 600,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "eea30e89-3a5a-4d30-80d0-c8282d8b6094",
+  "tilesetId": "",
+  "paletteIds": [
+    "default-bg-3",
+    "default-bg-3",
+    "",
+    "default-bg-3"
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
   "script": [
     {
       "command": "EVENT_AWAIT_INPUT",
@@ -57,5 +56,6 @@
   ],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "collisions": ""
 }

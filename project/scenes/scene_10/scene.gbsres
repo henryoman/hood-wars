@@ -9,8 +9,10 @@
   "height": 18,
   "type": "LOGO",
   "paletteIds": [
-    "",
-    "default-bg-4"
+    "default-bg-3",
+    "default-bg-4",
+    null,
+    "dmg"
   ],
   "spritePaletteIds": [],
   "collisions": "",
