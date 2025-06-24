@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a752017f-44ef-49fe-beed-3c7ec2d0dde6",
+  "name": "hood-place-time3",
+  "symbol": "bg_hood_place_time3",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "hood-place-time3.png",
+  "tileColors": "",
+  "autoColor": true
+}

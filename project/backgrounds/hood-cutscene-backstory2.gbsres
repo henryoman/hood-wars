@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "6d0fac80-0f47-46dd-aba8-8e1d05556d93",
+  "name": "hood-cutscene-backstory2",
+  "symbol": "bg_hood_cutscene_backstory2",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "hood-cutscene-backstory2.png",
+  "tileColors": "",
+  "autoColor": true
+}

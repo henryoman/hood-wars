@@ -1,0 +1,86 @@
+{
+  "_resourceType": "actor",
+  "id": "31d6e576-14fc-4c15-af49-b7c40ee530f8",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "fa399e0c-c581-4ffb-a6d8-3473313fd7a5",
+  "prefabId": "",
+  "direction": "right",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_2",
+  "script": [
+    {
+      "command": "EVENT_ACTOR_EMOTE",
+      "args": {
+        "actorId": "$self$",
+        "emoteId": "f1be2ac3-04ab-482a-8b83-99ffba1a89cd"
+      },
+      "id": "36afa192-544b-40be-a297-90e6ad805275"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "i heard you caught\n\n100 fades in jail\n\ncuh"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "98a92b5e-ffdb-446a-b8a4-e77f9391cd34"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "i got a lil\n\nsomething for you\n\nfind me later"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "f78c9f9e-f17d-42dd-ad0a-cf643bd74c66"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 2,
+  "y": 11,
+  "_index": 2
+}

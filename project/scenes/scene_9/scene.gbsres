@@ -3,7 +3,7 @@
   "id": "15bdd448-2ffe-493c-8553-a12c3a316659",
   "_index": 4,
   "name": "Scene 7",
-  "backgroundId": "8faf19a3-a76c-4a3c-b66c-1c2202bcb717",
+  "backgroundId": "692e911d-33bf-41cc-9f28-f17f647edfda",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -17,7 +17,7 @@
   "autoFadeSpeed": 1,
   "symbol": "scene_0",
   "x": 288,
-  "y": 240,
+  "y": 416,
   "script": [
     {
       "command": "EVENT_AWAIT_INPUT",

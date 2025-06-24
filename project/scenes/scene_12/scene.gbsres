@@ -3,7 +3,7 @@
   "id": "dc7af8da-aa72-4af2-bc0c-fdad27183495",
   "_index": 8,
   "name": "Scene 9",
-  "backgroundId": "1c329ff9-3cf1-45e2-aa34-64201a9e7438",
+  "backgroundId": "6d0fac80-0f47-46dd-aba8-8e1d05556d93",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -16,7 +16,7 @@
   "autoFadeSpeed": 1,
   "symbol": "scene_9",
   "x": 288,
-  "y": 416,
+  "y": 600,
   "script": [
     {
       "command": "EVENT_AWAIT_INPUT",

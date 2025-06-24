@@ -4,11 +4,11 @@
   "name": "",
   "prefabId": "",
   "x": 79,
-  "y": 75,
+  "y": 74,
   "symbol": "trigger_0",
   "prefabScriptOverrides": {},
   "width": 1,
-  "height": 5,
+  "height": 6,
   "script": [
     {
       "command": "EVENT_SWITCH_SCENE",
