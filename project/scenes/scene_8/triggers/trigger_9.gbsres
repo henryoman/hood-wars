@@ -1,0 +1,42 @@
+{
+  "_resourceType": "trigger",
+  "id": "5f17f938-49c8-4326-a7c6-e7b57fc83c48",
+  "name": "",
+  "prefabId": "",
+  "x": 32,
+  "y": 68,
+  "symbol": "trigger_12",
+  "prefabScriptOverrides": {},
+  "width": 8,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "WELCOME TO \n\nHOOVER GARDENS"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "any",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30,
+        "__collapse": false
+      },
+      "id": "65e4fd65-0c76-4cb0-8c52-ff9c2b96e96a"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 8
+}
