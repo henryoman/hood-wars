@@ -8,5 +8,6 @@
   "imageWidth": 160,
   "imageHeight": 144,
   "filename": "hood-place-time2.png",
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": false
 }

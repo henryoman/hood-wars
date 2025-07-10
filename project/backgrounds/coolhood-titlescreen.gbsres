@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "780c443d-536f-4f6b-829b-ee1136d96e72",
+  "name": "***coolhood-titlescreen",
+  "symbol": "bg_coolhood_titlescreen",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "***coolhood-titlescreen.png",
+  "tileColors": ""
+}

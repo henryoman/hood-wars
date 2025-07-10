@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "d39f9d91-f28a-47f5-a860-a4153d210fbb",
+  "name": "titlescreennobackground",
+  "symbol": "bg_titlescreennobackground",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "titlescreennobackground.png",
+  "tileColors": ""
+}
