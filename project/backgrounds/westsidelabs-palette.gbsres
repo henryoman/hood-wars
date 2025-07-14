@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "853bf669-7e69-4670-9776-ca376d87c16d",
+  "name": "westsidelabs-palette",
+  "symbol": "bg_westsidelabs_palette",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "westsidelabs-palette.png",
+  "autoColor": true,
+  "tileColors": ""
+}

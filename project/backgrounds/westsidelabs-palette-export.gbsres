@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "afa017b6-8247-41c3-8a13-abfc3e9ca7ba",
+  "name": "westsidelabs-palette-export",
+  "symbol": "bg_westsidelabs_palette_exp",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "westsidelabs-palette-export.png",
+  "autoColor": true,
+  "tileColors": ""
+}
